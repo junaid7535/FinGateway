@@ -1,0 +1,2 @@
+2026-04-18 20:18:18 AUDIT | timestamp=2026-04-18T14:48:18.755814300Z | ip=0:0:0:0:0:0:0:1 | method=GET | uri=/.well-known/appspecific/com.chrome.devtools.json | riskScore=5 | decision=ALLOW | attackType=NONE | statusCode=200
+2026-04-18 20:18:29 AUDIT | timestamp=2026-04-18T14:48:29.617830900Z | ip=0:0:0:0:0:0:0:1 | method=GET | uri=/.well-known/appspecific/com.chrome.devtools.json | riskScore=5 | decision=ALLOW | attackType=NONE | statusCode=200
